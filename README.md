@@ -1,6 +1,6 @@
-### Hi there 👋
+# HELLO, WORLD!
 
-- 🔭 I’m currently working on Front End
+- 🔭 I’m currently working on Front End development
 - 🌱 I’m currently learning Back End Development (MySQL, MongoDB)
 - ⚡ Fun fact: I love rugby and I have two dogs!
 
