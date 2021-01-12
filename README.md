@@ -6,18 +6,18 @@
 
 💻 Tecnologias
 Minhas principais durante a carreira:
-ReactJS
-HTML
-CSS
-JS
+- ReactJS;
+- HTML;
+- CSS;
+- JS;
 
 Já trabalhei mas faz algum tempo que não programo mais:
-Java(Mobile Development)
+- Java(Mobile Development);
 
 Tenho curiosidade e acompanho de longe:
-Go
-Ruby
-PHP
+- Go;
+- Ruby;
+- PHP;
 
 ✉️ Contato
 E-mail: ikbenpedro@gmail.com
