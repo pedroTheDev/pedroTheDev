@@ -1,11 +1,24 @@
 ### Hi there 👋
 
-<!--
-**pedroTheDev/pedroTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Front End and mobile development
 - 🌱 I’m currently learning Back End Development (MySQL, MongoDB)
-
 - ⚡ Fun fact: I love rugby and I have two dogs!
+
+💻 Tecnologias
+Minhas principais durante a carreira:
+ReactJS
+HTML
+CSS
+JS
+
+Já trabalhei mas faz algum tempo que não programo mais:
+Java(Mobile Development)
+
+Tenho curiosidade e acompanho de longe:
+Go
+Ruby
+PHP
+
+✉️ Contato
+E-mail: ikbenpedro@gmail.com
+Linkedin: https://www.linkedin.com/in/pedroduartedev/
