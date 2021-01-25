@@ -51,12 +51,12 @@
 *Tenho curiosidade e acompanho de longe:*
 <!--- Go;-->
 <a href="https://golang.org/" target="_blank">
-<img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" alt="go" width="40" height="40"/> </a>
+<img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" alt="go" width="60" height="60"/> </a>
 <!--- Ruby;-->
 <a href="https://www.ruby-lang.org/pt/" target="_blank">
 <img src="https://blog-codeminer42.s3.amazonaws.com/legacy-posts-images/towards-minimal-idiomatic-and-performant-ruby-code/1*Qc0XxYm-qAZL-7tjjlNfrg.png" alt="go" width="40" height="40"/> </a>
 <!--- PHP;-->
 <a href="https://www.php.net/" target="_blank">
-<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="go" width="40" height="40"/> </a>
+<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="go" width="60" height="60"/> </a>
 
 
