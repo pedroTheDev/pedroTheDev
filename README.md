@@ -51,7 +51,7 @@
 *Tenho curiosidade e acompanho de longe:*
 <!--- Go;-->
 <a href="https://golang.org/" target="_blank">
-<img src="http://www.w3.org/2000/svg" alt="go" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1024px-Go_Logo_Blue.svg.png" alt="go" width="40" height="40"/> </a>
 <!--- Ruby;-->
 <a href="https://www.ruby-lang.org/pt/" target="_blank">
 <img src="https://blog-codeminer42.s3.amazonaws.com/legacy-posts-images/towards-minimal-idiomatic-and-performant-ruby-code/1*Qc0XxYm-qAZL-7tjjlNfrg.png" alt="go" width="40" height="40"/> </a>
