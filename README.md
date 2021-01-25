@@ -1,39 +1,24 @@
 # HELLO, WORLD!
 
-- 🔭 I’m currently working on Front End development
-- 🌱 I’m currently learning Back End Development (MySQL, MongoDB)
+- 🔭 I’m currently working on Front End development (ReactJs)
+- 🌱 I’m currently learning Back End Development (MySQL, MongoDB, NodeJs)
 - ⚡ Fun fact: I love rugby and I have two dogs!
 
-💻 Tecnologias;
-*Minhas principais durante a carreira:*
-- ReactJS;
-- HTML;
-- CSS;
-- JS;
-
-*Já trabalhei mas faz algum tempo que não programo mais:*
-- Java(Mobile Development);
-
-*Tenho curiosidade e acompanho de longe:*
-- Go;
-- Ruby;
-- PHP;
 
 ✉️ Contato
 - E-mail: ikbenpedro@gmail.com
 - Linkedin: https://www.linkedin.com/in/pedroduartedev/
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroTheDev&label=Profile%20views&color=0e75b6&style=flat" alt="scriblet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroTheDev&label=Profile%20views&color=0e75b6&style=flat" alt="pedrothedev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroTheDev" alt="scriblet" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroTheDev" alt="pedroTheDev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Front End development (ReactJs)
-- 🌱 I’m currently learning Back End Development (MySQL, MongoDB, NodeJs)
-- ⚡ Fun fact: I love rugby and I have two dogs!
- <h2 align="center"> My Stats </h2>
-<h3 align="left">Languages and Tools:</h3>
+
+
+ <!--Language and tools-->
+<h3 align="left">💻 Tecnologias:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -56,6 +41,22 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroTheDev&show_icons=true&locale=en" alt="PedroTheDev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroTheDev&" alt="Pedrothedev" /></p>
+<!--Stats-->
+ <h2 align="center"> My Stats </h2>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroTheDev&show_icons=true&locale=en" alt="PedroTheDev" /></p>
+<!--Streak-->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroTheDev&" alt="Pedrothedev" /></p>
+
+*Tenho curiosidade e acompanho de longe:*
+<!--- Go;-->
+<a href="https://golang.org/" target="_blank">
+<img src="http://www.w3.org/2000/svg" alt="go" width="40" height="40"/> </a>
+<!--- Ruby;-->
+<a href="https://www.ruby-lang.org/pt/" target="_blank">
+<img src="https://blog-codeminer42.s3.amazonaws.com/legacy-posts-images/towards-minimal-idiomatic-and-performant-ruby-code/1*Qc0XxYm-qAZL-7tjjlNfrg.png" alt="go" width="40" height="40"/> </a>
+<!--- PHP;-->
+<a href="https://www.php.net/" target="_blank">
+<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="go" width="40" height="40"/> </a>
+
+
