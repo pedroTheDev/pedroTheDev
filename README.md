@@ -23,10 +23,6 @@
 - E-mail: ikbenpedro@gmail.com
 - Linkedin: https://www.linkedin.com/in/pedroduartedev/
 
-
-<h1  align="center"> Hello, World!</h1>
-<h3 align="center">My name is Pedro and I am a Front End Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroTheDev&label=Profile%20views&color=0e75b6&style=flat" alt="scriblet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroTheDev" alt="scriblet" /></a> </p>
@@ -36,13 +32,7 @@
 - 🔭 I’m currently working on Front End development (ReactJs)
 - 🌱 I’m currently learning Back End Development (MySQL, MongoDB, NodeJs)
 - ⚡ Fun fact: I love rugby and I have two dogs!
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pedroduartedev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pedroduartedev/" height="30" width="40" /></a>
-</p>
-
+ <h2 align="center"> My Stats </h2>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank">
