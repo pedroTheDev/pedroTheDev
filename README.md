@@ -57,6 +57,6 @@
 <img src="https://blog-codeminer42.s3.amazonaws.com/legacy-posts-images/towards-minimal-idiomatic-and-performant-ruby-code/1*Qc0XxYm-qAZL-7tjjlNfrg.png" alt="go" width="40" height="40"/> </a>
 <!--- PHP;-->
 <a href="https://www.php.net/" target="_blank">
-<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="go" width="40" height="40"/> </a>
+<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="go" width="55" height="40"/> </a>
 
 
