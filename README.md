@@ -1,7 +1,6 @@
 # HELLO, WORLD!
 
-- 🔭 I’m currently working on Front End development (ReactJs)
-- 🌱 I’m currently learning Back End Development (MySQL, MongoDB, NodeJs)
+- 🔭 I’m a FullStack Developer (MERN)
 - ⚡ Fun fact: I love rugby and I have two dogs!
 
 
